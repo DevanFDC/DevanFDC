@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevanFDC
+- 👋 Hi, I’m Devan Tritama
 - 👀 I’m interested in Javascript Programming Language
 <!---
 DevanFDC/DevanFDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
